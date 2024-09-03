@@ -1,0 +1,26 @@
+# Arquivos de backup
+*.bak
+*.tmp
+*.old
+
+# Arquivos de log
+*.log
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache de editores de texto
+*.swp
+*.swo
+*~
+
+# Configurações de IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Binários ou dumps de banco de dados
+*.dump
+*.sql.bak
